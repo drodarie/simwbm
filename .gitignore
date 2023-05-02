@@ -1,0 +1,10 @@
+NEURON/x86_64
+NEURON/x87_64
+*.pyc
+.ipynb_checkpoints/
+save
+*.db
+*.h5
+.idea
+data
+*.egg-info
